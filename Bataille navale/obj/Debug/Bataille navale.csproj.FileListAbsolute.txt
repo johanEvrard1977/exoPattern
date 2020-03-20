@@ -1,0 +1,6 @@
+c:\users\johan\documents\visual studio 2015\Projects\Bataille navale\Bataille navale\bin\Debug\Bataille navale.exe.config
+c:\users\johan\documents\visual studio 2015\Projects\Bataille navale\Bataille navale\obj\Debug\Bataille navale.csprojResolveAssemblyReference.cache
+c:\users\johan\documents\visual studio 2015\Projects\Bataille navale\Bataille navale\bin\Debug\Bataille navale.exe
+c:\users\johan\documents\visual studio 2015\Projects\Bataille navale\Bataille navale\bin\Debug\Bataille navale.pdb
+c:\users\johan\documents\visual studio 2015\Projects\Bataille navale\Bataille navale\obj\Debug\Bataille navale.exe
+c:\users\johan\documents\visual studio 2015\Projects\Bataille navale\Bataille navale\obj\Debug\Bataille navale.pdb
